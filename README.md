@@ -1,2 +1,2 @@
-# PythonLab_2
+# PythonLab2
 Semester 3 Python Class 
