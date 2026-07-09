@@ -1,2 +1,2 @@
 # PythonLab2
-Semester 3 Python Class 
+Semester 3 Python Class Works
